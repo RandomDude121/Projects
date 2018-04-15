@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">au523538 Weather App</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="my_city">My City:</string>
+    <string name="aarhus">AARHUS</string>
+    <string name="degree">°</string>
+    <string name="add">ADD</string>
+    <string name="cityname">CityName</string>
+    <string name="add_city">Add City</string>
+    <string name="set_city">Set Fav City</string>
+    <string name="choose_fav_city">Choose your favourite city!</string>
+    <string name="notificationTitle">au523538 Weather App</string>
+    <string name="newData">newData</string>
+    <string name="favCity">favCity</string>
+    <string name="badApiResponse">Bad Api Response</string>
+    <string name="weatherCheckedAt">Last weather checked at:</string>
+    <string name="meterPerSec">m/s</string>
+    <string name="temperature">Temperature</string>
+    <string name="_20degrees">20Degrees</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="_4m_s">4m/s</string>
+    <string name="description">Description</string>
+    <string name="rainy_with_clouds">Rainy with clouds</string>
+    <string name="ok">OK</string>
+    <string name="_13_37_37">13:37:37</string>
+</resources>
